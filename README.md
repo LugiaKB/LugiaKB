@@ -1,22 +1,12 @@
-### Hi there 👋
+### Hello! My name is Iury and I'm a CS student looking for job!
+
+- 🔭 I’m currently working on **CS50's Web Programming with Python and JavaScript**
+- 🌱 I’m currently learning **Django**
+- 📫 How to reach me: **mikaeliury@gmail.com**
+- 😄 Pronouns: **He/Him**
 
 <div align="center">
   <a href="https://github.com/lugiakb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lugiakb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugiakb&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lugiakb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugiakb&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
-<!--
-**LugiaKB/LugiaKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
