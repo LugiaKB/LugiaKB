@@ -1,8 +1,8 @@
 ### Hello! My name is Iury and I'm a CS undergraduate looking for job!
 ### *Olá! Meu nome é Iury e eu sou um graduando em Ciência da Computação em busca de um emprego!*
 
-- 🔭 I’m currently working on different projects (basic stuff) for college while why try new things, like learning Java!
--    *Estou trabalhando em diferentes projetos (coisa básica) para a faculdade e tentando novas coisas, como aprender Java!*
+- 🔭 I’m currently working on different projects (basic stuff) for college while why try new things, like learning Node and TypeScript!
+-    *Estou trabalhando em diferentes projetos (coisa básica) para a faculdade e tentando novas coisas, como aprender Node e TypeScript!*
 - 📫 How to reach me: **mikaeliury@gmail.com**
 - 😄 Pronouns: **He/Him**
 
