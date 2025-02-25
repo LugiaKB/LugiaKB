@@ -1,4 +1,4 @@
-### Hello, my name is Iury Mikael
+### Hello, my name is Mikael Sobral
 
 - Computer Science major
 - High level of english
